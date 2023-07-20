@@ -1,0 +1,30 @@
+.carousel{
+    margin-bottom: 5em;
+}
+.carousel-item{
+    height:32rem;
+}
+.carousel-caption{
+    margin-bottom: 5em;
+    z-index: 20;
+}
+
+.body{
+    color:#555;
+    padding-bottom: 2em;
+    
+}
+.bg-img1{
+    background-color:#000;
+    background-size: cover;
+    background-image: url(img1.jpg);
+}
+.bg-img1 h1{color: aquamarine;}
+.bg-img2{background-color: #000;
+    background-size: cover;
+    background-image: url(img2.jpg);
+}
+.bg-img3{background-color: #000;
+    background-size: cover;
+    background-image: url(img3.jpg);
+}
